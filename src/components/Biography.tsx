@@ -49,7 +49,7 @@ function ProfilePicture() {
           <p className="inline-block text-2xl">2023</p>
         </div>
         <div className="h-full pt-[0.2rem]">
-          <p className="inline-block text-xl">某Fintechベンチャー 入社予定</p>
+          <p className="inline-block text-xl">某Fintechベンチャー 入社</p>
         </div>
       </div>
     </div>
